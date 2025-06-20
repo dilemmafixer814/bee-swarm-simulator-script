@@ -56,11 +56,6 @@ This script is designed to automate key tasks in **Bee Swarm Simulator**, includ
 
 ---
 
-## ❗ Disclaimer
-
-Use responsibly. This tool is for personal use and testing only. We do not endorse cheating or violating Roblox rules. Use at your own risk.
-
----
 
 ## 🙋 Support
 
